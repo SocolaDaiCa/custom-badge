@@ -9,7 +9,10 @@ module.exports = async function (req, res) {
 		res.writeHead(404).end("Not found");
 		return;
 	}
+	const imageBuffer = await getImageBuffer(repoLanguages);
 
-	getImageBuffer(repoLanguages);
-	res.send("test");
+	res.type("png");
+	res.send(imageBuffer);
+
+	return;
 };
