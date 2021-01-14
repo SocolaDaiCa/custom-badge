@@ -25,6 +25,13 @@ module.exports = function (repoLanguages) {
 		},
 	);
 
+	const defaultValues = {
+		width: 56,
+		rect1Width: 47.578,
+		rect2Width: 54.152,
+		rect3Width: 13.84,
+	};
+
 	const compileOptions = {
 		width: 0,
 	};
