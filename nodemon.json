@@ -1,5 +1,5 @@
 {
     "watch": ["."],
     "ext": "js",
-    "ignore": ["node_modules/**/node_modules", ".git"]
+    "ignore": ["node_modules/**/node_modules", ".git", ".history"]
 }
