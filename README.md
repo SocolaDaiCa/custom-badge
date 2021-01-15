@@ -1,6 +1,8 @@
 # Custom badge cho github
 
-![Badge](https://badg9.herokuapp.com/weebNeedWeed/custom-badge)
+<p align="center">
+  <img src="https://badg9.herokuapp.com/weebNeedWeed/custom-badge" alt="Badge"/>
+</p>
 
 #### - Cách dùng:
 
