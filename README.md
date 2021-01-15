@@ -1,6 +1,6 @@
 # Custom badge cho github
 
-![text](https://badg9.herokuapp.com/quickey/quickey)
+![Langauge](https://badge.langauge.io/:owner/:repo)
 
 #### - Cách dùng:
 
