@@ -1,5 +1,7 @@
 # Custom badge cho github
 
+![text](https://badg9.herokuapp.com/:OWNER/:REPO)
+
 #### - Cách dùng:
 
 1. Clone source code về
