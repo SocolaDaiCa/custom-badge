@@ -1,6 +1,6 @@
 # Custom badge cho github
 
-![text](https://badg9.herokuapp.com/:OWNER/:REPO)
+![text](https://badg9.herokuapp.com/:owner/:repo)
 
 #### - Cách dùng:
 
