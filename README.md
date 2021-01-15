@@ -1,6 +1,6 @@
 # Custom badge cho github
 
-![Langauge](https://badge.langauge.io/:owner/:repo)
+![Badge](https://badg9.herokuapp.com/weebNeedWeed/custom-badge)
 
 #### - Cách dùng:
 
